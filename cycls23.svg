@@ -1,16 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="960pt" height="540pt" viewBox="0 0 960 540">
-<g enable-background="new">
-<clipPath id="cp0">
-<path transform="matrix(1,0,0,-1,0,540)" d="M 0 .00001206994 L 959.76 .00001206994 L 959.76 540 L 0 540 Z "/>
-</clipPath>
-<g clip-path="url(#cp0)">
-<path transform="matrix(1,0,0,-1,0,540)" d="M 0 540 L 959.76 540 L 959.76 .00001206994 L 0 .00001206994 Z " fill="#ffffff"/>
-</g>
-<path transform="matrix(1,0,0,-1,0,540)" d="M 0 540 L 960 540 L 960 .0000140816 L 0 .0000140816 Z " fill="#ffffff"/>
-<path transform="matrix(1,0,0,-1,0,540)" d="M 411.6632 269.9999 L 480 211.0211 L 343.3265 211.0211 Z M 548.3368 269.9999 L 616.6735 211.0211 L 480 211.0211 Z M 480 328.9788 L 616.6735 328.9788 L 548.3368 269.9999 Z M 343.3265 328.9788 L 480 328.9788 L 411.6632 269.9999 Z " fill="#7f7f7f" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,540)" d="M 548.3366 387.9577 L 479.9997 328.9788 L 411.6629 387.9577 Z " fill="#7f7f7f" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,540)" d="M 411.6629 152.0422 L 479.9997 211.0212 L 548.3366 152.0422 Z " fill="#7f7f7f" fill-rule="evenodd"/>
-</g>
+<svg width="366" height="316" viewBox="0 0 366 316" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M91.8843 158L183 236.638H0.768677L91.8843 158ZM274.116 158L365.231 236.638H183L274.116 158ZM183 79.3615H365.231L274.116 158L183 79.3615ZM0.768677 79.3615H183L91.8843 158L0.768677 79.3615Z" fill="#7F7F7F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M274.115 0.72302L183 79.3616L91.8838 0.72302H274.115Z" fill="#7F7F7F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M91.8838 315.277L183 236.638L274.115 315.277H91.8838Z" fill="#7F7F7F"/>
 </svg>
